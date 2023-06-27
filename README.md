@@ -7,3 +7,5 @@ VISIT LIVE PROJECTS WHICH I CODED THROUGHOUT THE COURSE :
 💥 GERICHT-RESTURANT : https://gericht-resturant-sepia.vercel.app/
 
 🤑 MODERN-HOOBANK : https://modern-hoobank-one.vercel.app/
+
+🎄 METAVERSE : coming soon
