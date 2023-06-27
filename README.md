@@ -8,4 +8,4 @@ VISIT LIVE PROJECTS WHICH I CODED THROUGHOUT THE COURSE :
 
 🤑 MODERN-HOOBANK : https://modern-hoobank-one.vercel.app/
 
-🎄 METAVERSE : coming soon
+🦄 METAVERSE : https://metaverse-madness-blush.vercel.app/
